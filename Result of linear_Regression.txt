@@ -1,0 +1,2 @@
+Mean squared error of the model(MSE) 104.97486284312181
+R squared value 0.5595460300288595
